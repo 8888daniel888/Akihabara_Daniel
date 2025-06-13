@@ -47,3 +47,6 @@ y una herramienta de inteligencia artificial para ayuda para generar escripcione
 - DatabaseConnection.java → conexión con MySQL
 - InterfazConsola.java → entrada/salida por consola
 - LlmService.java → integración con la IA de OpenRouter
+
+## Enlace GitHub
+https://github.com/8888daniel888/Akihabara_Daniel.git
